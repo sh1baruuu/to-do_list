@@ -1,5 +1,5 @@
 ![Todo List Logo](./public/todolist.png) 
-# TODOLIST- [![Netlify Status](https://api.netlify.com/api/v1/badges/4f17513e-aa76-4c00-ab9d-b00e222fa24a/deploy-status)](https://app.netlify.com/sites/todoliiist/deploys)
+# TODOLIST- [![Netlify Status](https://api.netlify.com/api/v1/badges/4f17513e-aa76-4c00-ab9d-b00e222fa24a/deploy-status)](https://todoliiist.netlify.app)
 
 [![react](		https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/learn)
 [![tailwindcss](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
