@@ -1,9 +1,9 @@
 ![Todo List Logo](./public/todolist.png) 
 # TODOLIST- [![Netlify Status](https://api.netlify.com/api/v1/badges/4f17513e-aa76-4c00-ab9d-b00e222fa24a/deploy-status)](https://app.netlify.com/sites/todoliiist/deploys)
 
-![react](		https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![tailwindcss](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ide](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![react](		https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/learn)
+[![tailwindcss](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/guide/)
 
 
 This is a straightforward Todo List web application created using React and styled with Tailwind CSS. It allows users to add, delete, and mark tasks as completed.
@@ -45,11 +45,12 @@ Contributions are welcomed and appreciated! If you have suggestions, found bugs,
 - **Submit issues:** Report problems or suggestions by creating issues.
 - **Send pull requests:** Contribute directly by implementing changes. 
 
-### Contact
-
-For any inquiries or further discussion, you can reach out through:
-
-[![Contact](https://img.shields.io/badge/Contact-Rudolph-green)](mailto:devillarudolphangelo@gmail.com)
 ## License
 [![license](https://img.shields.io/badge/MIT-FF6A00?style=for-the-badge&logoColor=white)](./LICENSE.md)
 
+## Contact
+
+For any inquiries or further discussion, you can reach out through:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devillarudolphangelo@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/9669728753388380869)
