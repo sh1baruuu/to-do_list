@@ -1,5 +1,6 @@
 ![Todo List Logo](./public/todolist.png) 
-# TODOLIST
+# TODOLIST- [![Readme](https://img.shields.io/badge/Todolist-Link-blue)](https://todoliiist.netlify.app)
+
 ![react](		https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwindcss](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ide](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -35,11 +36,20 @@ npm run dev
 ```
 
 ## Usage
-Once the application is running, open your browser and go to http://localhost:3000 to view the Todo List app. You can start adding tasks, deleting them, and marking them as completed.
+Once the application is running, open your browser and go to http://localhost:5173 to view the Todo List app. You can start adding tasks, deleting them, and marking them as completed.
 
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
+### Contributing
 
+Contributions are welcomed and appreciated! If you have suggestions, found bugs, or want to contribute by submitting enhancements, please feel free to:
+
+- **Submit issues:** Report problems or suggestions by creating issues.
+- **Send pull requests:** Contribute directly by implementing changes. 
+
+### Contact
+
+For any inquiries or further discussion, you can reach out through:
+
+[![Contact](https://img.shields.io/badge/Contact-Rudolph-green)](mailto:devillarudolphangelo@gmail.com)
 ## License
 [![license](https://img.shields.io/badge/MIT-FF6A00?style=for-the-badge&logoColor=white)](./LICENSE.md)
 

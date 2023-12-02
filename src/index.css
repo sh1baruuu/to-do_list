@@ -9,7 +9,7 @@
         font-family: 'Poppins', sans-serif;
         scrollbar-width: thin;
         scrollbar-color: blue blue;
-    
+        -webkit-tap-highlight-color: transparent;
     
 }
 
