@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Fugaz+One&family=Poppins:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: 'Poppins', sans-serif;
+        scrollbar-width: thin;
+        scrollbar-color: blue blue;
+    
+    
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #4070ff77;
+    border-radius: 14px;
+    border: 2px solid white;
+}
+
+}
+
+/* font-family: 'Fugaz One', sans-serif; */
