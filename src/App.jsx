@@ -47,11 +47,13 @@ function App() {
     };
 
     const addTask = () => {
-        setTasks((prev) => [
-            ...prev,
-            { id: nanoid(), task: input, isDone: false },
-        ]);
-        setInput("");
+        if (input !== "") {
+            setTasks((prev) => [
+                ...prev,
+                { id: nanoid(), task: input, isDone: false },
+            ]);
+            setInput("");
+        }
     };
 
     const clearAllTasks = () => {
@@ -73,6 +75,12 @@ function App() {
         setFilter(selectedFilter);
     };
 
+    function handleKeyPress(event) {
+        if (event.key === "Enter") {
+            addTask();
+        }
+    }
+
     const taskArray = showedTasks.map(({ id, task, isDone }) => {
         return (
             <Task
@@ -92,6 +100,7 @@ function App() {
                 <TaskInput
                     input={input}
                     add={addTask}
+                    handleKeyPress={handleKeyPress}
                     handleChange={handleChange}
                 />
                 <div className="bg-white-100 flex relative p-4 pr-1 pt-0 w-full flex-col h-full overflow-y-scroll rounded-[4px]">
